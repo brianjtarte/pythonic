@@ -6,7 +6,7 @@
 **Links and Resources:**
 
 **Initialize application:**
- - python pythonisms.py
+ - python pythonic.py
 
  - How do you run tests?
  - pytest tests/test_pythonic.py
